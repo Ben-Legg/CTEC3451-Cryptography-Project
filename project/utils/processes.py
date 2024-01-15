@@ -1,3 +1,5 @@
+# File containing process functions used during protocol
+
 from .crypto import aes_key_gen, aes_decryption, rsa_decryption, sign, verify, hybrid_encryption 
 
 def get_key(file_location, type): # Function to get an asymmetric key from a .pem file

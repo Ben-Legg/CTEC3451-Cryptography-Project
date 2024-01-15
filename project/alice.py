@@ -1,3 +1,5 @@
+# File containing protocol steps for Alice - Execute this file after executing bob.py to connect to user "bob"
+
 from utils import listen, connect, verify_cert, get_cert, get_cert_pk, cert_to_obj, xor_aes_keys, aes_encryption, aes_decryption, get_key, create_key_cipher, extract_key
 import pathlib
 

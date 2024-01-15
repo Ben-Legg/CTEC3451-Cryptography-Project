@@ -1,3 +1,5 @@
+# File containing listening and connecting functions enabling communication using Python Sockets
+
 import socket
 
 
