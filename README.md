@@ -1,4 +1,4 @@
-# CTEC3451-Cryptography-Project
+# CTEC3451 Undergraduate Major Development Project - [Mark Recieved - 93%]
 
 ## Assignment
 My final year of study at university required me to undertake an independent development project, under the supervision of a member of staff.
